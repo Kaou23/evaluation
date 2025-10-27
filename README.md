@@ -1,21 +1,12 @@
-﻿# Evaluation
+exercice1
 
-## Démonstrations (vidéos)
+https://github.com/user-attachments/assets/64bcf880-bebf-465c-b7f1-b00817cdbfab
 
-### Exercice 1
-<video controls width="900">
-  <source src="https://github.com/Kaou23/evaluation/raw/main/exercice1.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la balise vidéo.
-</video>
+exercice2
 
-### Exercice 2
-<video controls width="900">
-  <source src="https://github.com/Kaou23/evaluation/raw/main/exercice2.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la balise vidéo.
-</video>
+https://github.com/user-attachments/assets/e1090134-2357-499b-ad01-21f034215613
 
-### Exercice 3
-<video controls width="900">
-  <source src="https://github.com/Kaou23/evaluation/raw/main/exercice3.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la balise vidéo.
-</video>
+exercice3
+
+https://github.com/user-attachments/assets/0a3aa2d5-d93d-49d9-aec5-842454819c98
+
