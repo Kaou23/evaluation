@@ -2,20 +2,20 @@
 
 ## Démonstrations (vidéos)
 
-<details><summary><b>Exercice 1</b></summary>
+### Exercice 1
+<video controls width="900">
+  <source src="https://github.com/Kaou23/evaluation/raw/main/exercice1.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la balise vidéo.
+</video>
 
-<video src="exercice1.mp4" controls width="800"></video>
+### Exercice 2
+<video controls width="900">
+  <source src="https://github.com/Kaou23/evaluation/raw/main/exercice2.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la balise vidéo.
+</video>
 
-</details>
-
-<details><summary><b>Exercice 2</b></summary>
-
-<video src="exercice2.mp4" controls width="800"></video>
-
-</details>
-
-<details><summary><b>Exercice 3</b></summary>
-
-<video src="exercice3.mp4" controls width="800"></video>
-
-</details>
+### Exercice 3
+<video controls width="900">
+  <source src="https://github.com/Kaou23/evaluation/raw/main/exercice3.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la balise vidéo.
+</video>
